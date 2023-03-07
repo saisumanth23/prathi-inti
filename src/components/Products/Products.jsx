@@ -3,7 +3,7 @@ import { Grid } from "@mui/material";
 import Product from "./product/Product"
 
 const products = [
-    { id: 1, name: "mango pickle", description: "Tasty mango pickle.", price: "300" },
+    { id: 1, name: "mango pickle", description: "Tasty mango pickle.", price: "300"},
     { id: 1, name: "Lemon pickle", description: "Tasty Lemon pickle.", price: "300" },
     { id: 1, name: "Ginger pickle", description: "Tasty Ginger pickle.", price: "300" },
     { id: 1, name: "Tamarind pickle", description: "Tasty Tamarind pickle.", price: "350" }
